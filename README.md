@@ -1,1 +1,0 @@
-# College-Management-APP-With-Admin-Panel
